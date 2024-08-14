@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Raith's Stuff",
+    "id":"one.raith.stuff",
+    "url":"https://github.raith.one/",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"developer@raith.one",
+        "name":"RaithSphere",
+        "url":"https://raith.one"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Raith's Stuff",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.raith.one/",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
