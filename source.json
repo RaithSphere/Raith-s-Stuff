@@ -12,16 +12,5 @@
         "url":"https://github.raith.one/",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "RaithSphere/shader"
-    ],
-    "packages":[
-        {
-            "name":"one.raith.stuff",
-            "releases":[
-                
-            ]
-        }
-    ]
+    "bannerUrl":""
 }
