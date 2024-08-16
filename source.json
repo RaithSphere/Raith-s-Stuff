@@ -12,5 +12,8 @@
         "url":"https://github.raith.one/",
         "text":"View on GitHub"
     },
-    "bannerUrl":""
+    "bannerUrl":"",
+    "githubRepos":[
+        "RaithSphere/Shaders"
+    ]
 }
