@@ -1,15 +1,15 @@
 {
-    "name":"Raith's Stuff",
-    "id":"net.cytrax.official",
+    "name":"CytraX Listing",
+    "id":"net.cytrax.listing",
     "url":"https://github.raith.one/index.json",
     "author":{
-        "email":"developer@raith.one",
-        "name":"RaithSphere",
-        "url":"https://raith.one"
+        "email":"dev@cytrax.net",
+        "name":"CytraX",
+        "url":"https://cytrax.net"
     },
-    "description":"Raith's Stuff",
+    "description":"CytraX Packages",
     "infoLink":{
-        "url":"https://github.raith.one/",
+        "url":"https://github.com/RaithSphere/Raith-s-Stuff",
         "text":"View on GitHub"
     },
     "bannerUrl":"",
