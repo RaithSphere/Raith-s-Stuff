@@ -1,6 +1,6 @@
 {
     "name":"Raith's Stuff",
-    "id":"one.raith.stuff",
+    "id":"net.cytrax.official",
     "url":"https://github.raith.one/index.json",
     "author":{
         "email":"developer@raith.one",
@@ -14,6 +14,6 @@
     },
     "bannerUrl":"",
     "githubRepos":[
-        "RaithSphere/shaders"
+        "raithsphere/shaders"
     ]
 }
