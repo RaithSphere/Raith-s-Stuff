@@ -1,19 +1,28 @@
 {
-    "name":"CytraX Listing",
-    "id":"net.cytrax.listing",
-    "url":"https://github.raith.one/index.json",
-    "author":{
-        "email":"dev@cytrax.net",
-        "name":"CytraX",
-        "url":"https://cytrax.net"
-    },
-    "description":"CytraX Packages",
-    "infoLink":{
-        "url":"https://github.com/RaithSphere/Raith-s-Stuff",
-        "text":"View on GitHub"
-    },
-    "bannerUrl":"",
-    "githubRepos":[
-        "raithsphere/shaders"
-    ]
+  "name": "Example Listing",
+  "id": "com.vrchat.example-listing",
+  "url": "https://vrchat-community.github.io/template-package-listing/index.json",
+  "author": {
+    "email": "developer@vrchat.com",
+    "name": "VRChat",
+    "url": "https://hello.vrchat.com"
+  },
+  "description": "Example listing of VRChat packages",
+  "infoLink": {
+    "url": "http://github.com/vrchat-community/template-package-listing",
+    "text": "View on GitHub"
+  },
+  "bannerUrl": "banner.png",
+  "githubRepos": [
+    "vrchat-community/clientsim"
+  ],
+  "packages": [
+    {
+      "name": "com.vrchat.udonsharp",
+      "releases": [
+        "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
+        "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+      ]
+    }
+  ]
 }
